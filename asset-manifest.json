@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Raven2099/wordcount.git/static/css/main.62ed6774.css",
+    "main.js": "/Raven2099/wordcount.git/static/js/main.11b7b21f.js",
+    "static/js/787.af04e08f.chunk.js": "/Raven2099/wordcount.git/static/js/787.af04e08f.chunk.js",
+    "index.html": "/Raven2099/wordcount.git/index.html",
+    "main.62ed6774.css.map": "/Raven2099/wordcount.git/static/css/main.62ed6774.css.map",
+    "main.11b7b21f.js.map": "/Raven2099/wordcount.git/static/js/main.11b7b21f.js.map",
+    "787.af04e08f.chunk.js.map": "/Raven2099/wordcount.git/static/js/787.af04e08f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.62ed6774.css",
+    "static/js/main.11b7b21f.js"
+  ]
+}
